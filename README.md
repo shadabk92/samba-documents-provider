@@ -38,3 +38,20 @@ Please go to our [Google group][discussion] to discuss any issues.
 
 [samba-source]: https://download.samba.org/pub/samba/stable/samba-4.5.1.tar.gz
 [discussion]: https://groups.google.com/forum/#!forum/samba-documents-provider
+
+## Step 1. Add the JitPack repository to your build file
+Add it in your root build.gradle at the end of repositories:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+   
+
+## Step 2. Add the dependency
+
+	dependencies {
+	        compile 'com.github.shadabk92:samba-documents-provider:v1.0'
+	}
