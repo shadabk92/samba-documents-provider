@@ -1,0 +1,7 @@
+Executable : /home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/armeabi-v7a
+samba_client
+jvmArgs : 
+

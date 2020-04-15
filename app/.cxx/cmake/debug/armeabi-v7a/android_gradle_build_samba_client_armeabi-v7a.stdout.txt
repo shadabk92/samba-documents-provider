@@ -1,0 +1,1 @@
+ninja: Entering directory `/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/armeabi-v7a'

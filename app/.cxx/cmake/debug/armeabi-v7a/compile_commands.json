@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dsamba_client_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DDEBUG -std=c++0x -O2 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/samba_client.dir/src/main/cpp/jni_helper/JniHelper.cc.o -c /home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/jni_helper/JniHelper.cc",
+  "file": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/jni_helper/JniHelper.cc"
+},
+
+{
+  "directory": "/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dsamba_client_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DDEBUG -std=c++0x -O2 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/samba_client.dir/src/main/cpp/jni_helper/JavaClassCache.cc.o -c /home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/jni_helper/JavaClassCache.cc",
+  "file": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/jni_helper/JavaClassCache.cc"
+},
+
+{
+  "directory": "/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dsamba_client_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DDEBUG -std=c++0x -O2 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/samba_client.dir/src/main/cpp/samba_client/SambaClient.cc.o -c /home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/samba_client/SambaClient.cc",
+  "file": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/samba_client/SambaClient.cc"
+},
+
+{
+  "directory": "/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dsamba_client_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DDEBUG -std=c++0x -O2 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/samba_client.dir/src/main/cpp/credential_cache/CredentialCache.cc.o -c /home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/credential_cache/CredentialCache.cc",
+  "file": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/credential_cache/CredentialCache.cc"
+}
+]

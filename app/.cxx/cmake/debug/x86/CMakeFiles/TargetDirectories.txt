@@ -1,0 +1,3 @@
+/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/x86/CMakeFiles/samba_client.dir

@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/home/paradox/Documents/me/samba-documents-provider/app/CMakeLists.txt",
+    "/home/paradox/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/home/paradox/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "samba_client-Debug-x86": {
+      "artifactName": "samba_client",
+      "buildCommand": "/home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/x86\" samba_client",
+      "abi": "x86",
+      "output": "/home/paradox/Documents/me/samba-documents-provider/app/build/intermediates/cmake/debug/obj/x86/libsamba_client.so"
+    }
+  }
+}

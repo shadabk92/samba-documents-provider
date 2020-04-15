@@ -1,0 +1,57 @@
+{
+  "stringTable": {
+    "0": "/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android23 --gcc-toolchain=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dsamba_client_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DDEBUG -std=c++0x -O2 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/paradox/Documents/me/samba-documents-provider/app/CMakeLists.txt",
+    "/home/paradox/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/home/paradox/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "samba_client-Debug-arm64-v8a": {
+      "buildCommand": "/home/paradox/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/paradox/Documents/me/samba-documents-provider/app/.cxx/cmake/debug/arm64-v8a\" samba_client",
+      "buildType": "debug",
+      "toolchain": "741297491",
+      "abi": "arm64-v8a",
+      "artifactName": "samba_client",
+      "files": [
+        {
+          "src": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/jni_helper/JniHelper.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/jni_helper/JavaClassCache.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/samba_client/SambaClient.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/paradox/Documents/me/samba-documents-provider/app/src/main/cpp/credential_cache/CredentialCache.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/paradox/Documents/me/samba-documents-provider/app/build/intermediates/cmake/debug/obj/arm64-v8a/libsamba_client.so"
+    }
+  },
+  "toolchains": {
+    "741297491": {
+      "cppCompilerExecutable": "/home/paradox/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

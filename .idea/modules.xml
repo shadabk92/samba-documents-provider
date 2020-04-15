@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/me-samba-documents-provider.iml" filepath="$PROJECT_DIR$/me-samba-documents-provider.iml" group="samba-documents-provider" />
       <module fileurl="file://$PROJECT_DIR$/samba-documents-provider.iml" filepath="$PROJECT_DIR$/samba-documents-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/samba-documents-provider-app.iml" filepath="$PROJECT_DIR$/app/samba-documents-provider-app.iml" group="samba-documents-provider/app" />
     </modules>
   </component>
 </project>
